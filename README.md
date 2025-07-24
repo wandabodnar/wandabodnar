@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @wandabodnar
-- 👀 I’m interested in marine & GIS science...
-- 🌱 I’m constantly learning... 
+# 👋 Hi, I'm Wanda Bodnar
 
-<!---
-wandabodnar/wandabodnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estuary.
+
+## 🌍 Website
+🔗 [https://wandabodnar.github.io/](https://wandabodnar.github.io/)
+
+## 📁 Outputs
+- [GIS and Data Visualisation using QGIS and R Studio](https://wandabodnar.github.io/gis/GIS_book.pdf)
+- [Introduction to Geographic Information System](https://wandabodnar.github.io/gis/)
+- [Environmental DNA Workflow Guide](https://wandabodnar.github.io/phd/edna)
+- More coming soon...
+
+---
+
+> Last updated: July 2025
