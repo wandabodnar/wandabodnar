@@ -3,6 +3,7 @@
 I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estuary.
 
 🔗 [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/sbbs/staff/wandabodnar.html)
+
 🔗 [Institute of Zoology (IoZ)](https://www.zsl.org/about-zsl/our-people/wanda-bodnar)
 
 ## 🌍 Website
