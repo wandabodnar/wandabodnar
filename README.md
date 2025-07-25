@@ -2,6 +2,9 @@
 
 I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estuary.
 
+🔗 [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/sbbs/staff/wandabodnar.html)
+🔗 [Institute of Zoology (IoZ)](https://www.zsl.org/about-zsl/our-people/wanda-bodnar)
+
 ## 🌍 Website
 🔗 [https://wandabodnar.github.io/](https://wandabodnar.github.io/)
 
@@ -9,7 +12,6 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 - [GIS and Data Visualisation using QGIS and R Studio](https://wandabodnar.github.io/gis/GIS_book.pdf)
 - [Introduction to Geographic Information System](https://wandabodnar.github.io/gis/)
 - [Environmental DNA Workflow Guide](https://wandabodnar.github.io/phd/edna)
-- More coming soon...
 
 ---
 
