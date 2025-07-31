@@ -6,6 +6,8 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 
 🔗 [Institute of Zoology (IoZ)](https://www.zsl.org/about-zsl/our-people/wanda-bodnar)
 
+🔗 [University College London (UCL)](https://profiles.ucl.ac.uk/100291-wanda-bodnar)
+
 ## 🌍 Website
 🔗 [https://wandabodnar.github.io/](https://wandabodnar.github.io/)
 
