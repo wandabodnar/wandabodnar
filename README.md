@@ -14,8 +14,9 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 ## 📁 Outputs
 - [GIS and Data Visualisation using QGIS and R Studio](https://wandabodnar.github.io/gis/GIS_book.pdf)
 - [Introduction to Geographic Information System](https://wandabodnar.github.io/gis/)
+- [From spatial data to published interactive maps using R (IoZ training)](https://wandabodnar.github.io/ioz/)
 - [Environmental DNA](https://wandabodnar.github.io/phd/edna)
 
 ---
 
-> Last updated: July 2025
+> Last updated: January 2026
