@@ -8,8 +8,9 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 
 🔗 [University College London (UCL)](https://profiles.ucl.ac.uk/100291-wanda-bodnar)
 
-## 🌍 Website
+## 🌍 Websites
 🔗 [wandabodnar.github.io](https://wandabodnar.github.io/)
+
 🔗 [PhD research](https://wandabodnar.github.io/phd)
 
 ## 📁 Outputs
