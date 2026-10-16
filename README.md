@@ -21,7 +21,7 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 
 ---
 
-## ☕ Support this resource
+## ☕ Support these resources
 
 If you found this tutorial useful and would like to support future resources, you can buy me a coffee:
 
