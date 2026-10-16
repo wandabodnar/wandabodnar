@@ -24,9 +24,7 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 
 ## ☕ Support these resources
 
-If you found the above resources/outputs useful and would like to support future resources, you can buy me a coffee:
-
-[Buy me a coffee](https://www.paypal.com/paypalme/WandaBodnar)
+If you found the above resources/outputs useful and would like to support future resources, you can buy me a coffee: [Buy me a coffee](https://www.paypal.com/paypalme/WandaBodnar)
 
 ---
 
