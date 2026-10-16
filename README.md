@@ -18,12 +18,13 @@ I'm a Chartered Marine Scientist and PhD researcher focusing on the Thames Estua
 - [Introduction to Geographic Information System](https://wandabodnar.github.io/gis/)
 - [From spatial data to published interactive maps using R (IoZ training)](https://wandabodnar.github.io/ioz/)
 - [A very short introduction to environmental DNA](https://wandabodnar.github.io/phd/eDNA)
+- [Statistical modelling for ecological survey data]()
 
 ---
 
 ## ☕ Support these resources
 
-If you found this tutorial useful and would like to support future resources, you can buy me a coffee:
+If you found the above resources/outputs useful and would like to support future resources, you can buy me a coffee:
 
 [Buy me a coffee](https://www.paypal.com/paypalme/WandaBodnar)
 
