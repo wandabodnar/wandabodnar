@@ -61,10 +61,11 @@ A concise introduction to environmental DNA and its use in ecological monitoring
 
 ---
 
-## 🌍 Elsewhere
+## 🌍 Connect & profiles
 
 🌐 [Personal website](https://wandabodnar.github.io/)  
 🔬 [PhD research](https://wandabodnar.github.io/phd)  
+💼 [LinkedIn](https://www.linkedin.com/in/wandabodnar)  
 💻 [GitHub repositories](https://github.com/wandabodnar?tab=repositories)
 
 ---
