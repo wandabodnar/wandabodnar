@@ -19,7 +19,7 @@ My work combines long-term ecological monitoring, eDNA, statistical modelling, c
 
 ### 📊 Statistics & ecological data analysis
 
-- [Statistics for ecologists in R](YOUR-LINK-HERE)
+- [Statistics for ecologists in R](https://wandabodnar.github.io/statistics/))
 - [Statistical modelling for ecological survey data](https://wandabodnar.github.io/modelling/)
 
 ### 🗺️ GIS & data visualisation
