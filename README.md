@@ -27,7 +27,7 @@ My PhD focuses on fish community responses to intertidal habitat condition and r
 ### Statistics for ecologists in R
 A practical introduction to ecological statistics, covering study design, sampling, descriptive statistics, hypothesis testing, regression, model selection and critical interpretation.
 
-🔗 **[Open resource](YOUR-STATISTICS-LINK)**
+🔗 **[Open resource](https://wandabodnar.github.io/statistics/)**
 
 ### Statistical modelling for ecological survey data
 A practical guide to LM, GLM, LMM and GLMM workflows using ecological monitoring data.
