@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Wanda Bodnar
 
-I'm a **Chartered Marine Scientist and PhD researcher** studying fish community responses to intertidal habitat condition and restoration across the Thames Estuary
- **Thames Estuary**.
+I'm a **Chartered Marine Scientist and PhD researcher** studying fish community responses to intertidal habitat condition and restoration across the Thames Estuary.
 
 My work combines long-term ecological monitoring, eDNA, statistical modelling, community ecology, GIS and spatial data visualisation.
 
