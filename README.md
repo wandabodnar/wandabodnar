@@ -2,8 +2,6 @@
 
 **Chartered Marine Scientist | PhD Researcher | Quantitative & Spatial Ecology**
 
-I study fish communities, habitat restoration and environmental DNA in the **Thames Estuary**, combining long-term ecological monitoring, statistical modelling, community ecology, GIS and spatial data visualisation.
-
 ---
 
 ## 🔬 Research affiliations
