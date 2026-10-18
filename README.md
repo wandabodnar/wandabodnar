@@ -8,7 +8,7 @@
 
 [![QMUL](https://img.shields.io/badge/Queen%20Mary%20University%20of%20London-QMUL-blue)](https://www.qmul.ac.uk/sbbs/staff/wandabodnar.html)
 [![ZSL](https://img.shields.io/badge/Institute%20of%20Zoology-ZSL-green)](https://www.zsl.org/about-zsl/our-people/wanda-bodnar)
-[![UCL](https://img.shields.io/badge/University%20College%20London-UCL-darkblue)](https://profiles.ucl.ac.uk/100291-wanda-bodnar)
+[![UCL](https://img.shields.io/badge/University%20College%20London-UCL-purple)](https://profiles.ucl.ac.uk/100291-wanda-bodnar)
 
 ---
 
