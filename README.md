@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wanda Bodnar
 
-**Chartered Marine Scientist | PhD Researcher | Quantitative & Spatial Estuarine Ecology*
+**Chartered Marine Scientist | PhD Researcher | Quantitative & Spatial Estuarine Ecology**
 
 ---
 
