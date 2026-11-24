@@ -53,15 +53,16 @@ delivered in person or online.
 ## 📊 Statistics & ecological data analysis
 
 ### Statistics for ecologists in R
-A practical introduction to ecological statistics, covering study design, sampling, descriptive statistics, hypothesis testing, regression, model selection and critical interpretation.
 
 🔗 **[Open resource](https://wandabodnar.github.io/statistics/)**
 
 ### Statistical modelling for ecological survey data
-A practical guide to LM, GLM, LMM and GLMM workflows using ecological monitoring data.
 
 🔗 **[Open resource](https://wandabodnar.github.io/modelling/)**
 
+### Community ecology analysis in R
+
+🔗 **[Open resource](https://wandabodnar.github.io/community-ecology/)**
 ---
 
 ## 🗺️ GIS & spatial data
