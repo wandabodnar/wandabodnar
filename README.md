@@ -20,34 +20,6 @@ My PhD focuses on fish community responses to intertidal habitat condition and r
 
 ---
 
-## 🎤 Public talks & engagement
-
-I am passionate about sharing my knowledge of the
-Thames Estuary with wider audiences.
-
-I offer accessible and engaging public talks exploring
-the ecology, biodiversity, environmental history and
-conservation of the Thames Estuary.
-
-### Talk topics
-
-- Fishes and habitats of the Thames Estuary
-- From pollution to recovery
-- Restoring the Thames
-
-I welcome invitations from local societies, community
-groups, museums, educational institutions, environmental
-organisations and public event organisers.
-
-Talks can be tailored to different audiences and
-delivered in person or online.
-
-### Invite me to speak
-
-📩 **Speaking enquiries:** [Get in touch](mailto:wanda.bodnar.24@ucl.ac.uk?subject=Thames%20Public%20Talk%20Enquiry)
-
----
-
 # 📚 Open resources
 
 ## 📊 Statistics & ecological data analysis
@@ -91,15 +63,6 @@ A concise introduction to environmental DNA and its use in ecological monitoring
 
 ---
 
-## 🌍 Connect & profiles
-
-🌐 [Personal website](https://wandabodnar.github.io/)  
-🔬 [PhD research](https://wandabodnar.github.io/phd)  
-💼 [LinkedIn](https://www.linkedin.com/in/wandabodnar)  
-💻 [GitHub repositories](https://github.com/wandabodnar?tab=repositories)
-
----
-
 ## ☕ Support these resources
 
 I make these teaching materials and ecological resources freely available.
@@ -110,4 +73,4 @@ If you have found them useful and would like to support the development of futur
 
 ---
 
-<sub>Last updated: October 2026</sub>
+<sub>Last updated: November 2026</sub>
