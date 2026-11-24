@@ -63,6 +63,7 @@ delivered in person or online.
 ### Community ecology analysis in R
 
 🔗 **[Open resource](https://wandabodnar.github.io/community-ecology/)**
+
 ---
 
 ## 🗺️ GIS & spatial data
