@@ -31,7 +31,7 @@ conservation of the Thames Estuary.
 
 ### Talk topics
 
-- Fishes of the Thames Estuary
+- Fishes and habitats of the Thames Estuary
 - From pollution to recovery
 - Restoring the Thames
 
