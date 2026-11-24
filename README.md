@@ -36,8 +36,7 @@ I welcome invitations from local societies, community groups, museums, education
 
 Talks can be tailored to different audiences and delivered in person or online.
 
-📩 **Speaking enquiries:** 
-[Get in touch](https://wandabodnar.github.io/)
+📩 **Speaking enquiries:** [Get in touch](mailto:wanda.bodnar.24@ucl.ac.uk?subject=Thames%20Public%20Talk%20Enquiry)
 
 ---
 
